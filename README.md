@@ -8,12 +8,17 @@ Here you’ll find projects that showcase my experience with **Next.js (App Rout
 ## 📂 Projects
 
 ### 🔹 Base Projects
-- [nextjs-accessible-modal](https://github.com/rafael/nextjs-accessible-modal) — Accessible modal component built with Radix + shadcn/ui, validated with accessibility tests.
+- [nextjs-accessible-modal](https://github.com/rafaelpascoal/nextjs-accessible-modal.git) — Accessible modal component built with Radix + shadcn/ui, validated with accessibility tests.
 
-### 🔹 Advanced Projects *(coming soon)*
-- Scheduling Platform (Next.js + Prisma + MongoDB + Auth)  
-- Admin Dashboard with filters and dynamic tables  
-- OAuth integration with multiple providers  
+### 🔹 Medium Projects *(coming soon)*
+- [nextjs-admin-dashboard](https://github.com/rafael/nextjs-admin-dashboard) — Admin dashboard with user CRUD and UI built with shadcn/ui.
+- [nextjs-scheduler](https://github.com/rafael/nextjs-scheduler) — Simple scheduling system with calendar and conflict validation.
+
+### 🔹 Anchor Project *(coming soon)*
+- [nextjs-booking-platform](https://github.com/rafael/nextjs-booking-platform) — Complete booking platform (admin + client panel, authentication, Prisma, tests, deployment).  
+  - Scheduling Platform (Next.js + Prisma + MongoDB + Auth)  
+  - Admin Dashboard with filters and dynamic tables  
+  - OAuth integration with multiple providers
 
 ---
 
