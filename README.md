@@ -9,6 +9,7 @@ Here you’ll find projects that showcase my experience with **Next.js (App Rout
 
 ### 🔹 Base Projects
 - [nextjs-accessible-modal](https://github.com/rafaelpascoal/nextjs-accessible-modal.git) — Accessible modal component built with Radix + shadcn/ui, validated with accessibility tests.
+- [nextjs-accessible-dropdown](https://github.com/rafaelpascoal/nextjs-accessible-dropdown,git) - Accessible and reusable Dropdown Menu built with Radix + shadcn/ui, validated with accessibility tests.
 
 ### 🔹 Medium Projects *(coming soon)*
 - [nextjs-admin-dashboard](https://github.com/rafael/nextjs-admin-dashboard) — Admin dashboard with user CRUD and UI built with shadcn/ui.
