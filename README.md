@@ -36,10 +36,10 @@ Here you’ll find projects that showcase my experience with **Next.js (App Rout
 
 ## 📫 Contact
 <p>
-  <a href="https://linkedin.com/in/rafaelpascoal">
+  <a href="https://www.linkedin.com/in/rafael-pascoal-a50898226/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"/>
   </a>
-  <a href="mailto:raspascoal@exemplo.com">
+  <a href="mailto:raspascoal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30"/>
   </a>
 </p>
